@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Firebase_React/static/css/main.073c9b0a.css",
+    "main.js": "/Firebase_React/static/js/main.4555200e.js",
+    "static/js/787.112ba9a8.chunk.js": "/Firebase_React/static/js/787.112ba9a8.chunk.js",
+    "index.html": "/Firebase_React/index.html",
+    "main.073c9b0a.css.map": "/Firebase_React/static/css/main.073c9b0a.css.map",
+    "main.4555200e.js.map": "/Firebase_React/static/js/main.4555200e.js.map",
+    "787.112ba9a8.chunk.js.map": "/Firebase_React/static/js/787.112ba9a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4555200e.js"
+  ]
+}
